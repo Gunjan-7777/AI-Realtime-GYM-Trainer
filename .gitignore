@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# database
+data.db
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual environment
+.venv/
+venv/
+
+# streamlit cache
+.streamlit/
+
+# IDE settings (optional)
+.vscode/
